@@ -6,5 +6,5 @@ HNT GPS locator app
 - [ESP32_LoRaWAN](https://github.com/HelTecAutomation/ESP32_LoRaWAN)
 - [Tiny GPS](https://github.com/neosarchizo/TinyGPS)
 
-In the HelTec Borad the Physical serial is used by the LoRa Chip.
-So, use a software serial to communicate with the GPS.
+In the HelTec Board, the Physical serial is used by the LoRa chip.
+So, use a serial software to communicate with the GPS.
