@@ -1,7 +1,7 @@
 /*
 This is code provide to a HelTec LoraWan board
 to send GPS data on Helium console.
-Is not power optimized. 
+It is not power optimized. 
 */
 
 #include <ESP32_LoRaWAN.h>
